@@ -1,5 +1,5 @@
 nltk==3.4.5
 bs4==0.0.1
-re>=2.2.1
+
 urllib.request==3.5
 flask==1.1.1
