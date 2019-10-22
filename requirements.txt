@@ -1,6 +1,6 @@
 nltk
-re
+
 bs4
 
-urllib.request
+
 flask
