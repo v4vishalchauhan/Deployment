@@ -16,7 +16,7 @@
 <image src="text.jpg"><br>
 <h6>Open wikipedia and search anything,then copy the URL of the page.Paste the URL in text box.You will get the summary.</h6><br>
 <image src="wikipedia.jpg"><br>
-<image scr="output1.jpg"><br>
-<image scr="output2.jpg"><br>
+<image src="output1.jpg"><br>
+<image src="output2.jpg"><br>
 <h3>Cool that's it....</h3>
 </p></body</html>
